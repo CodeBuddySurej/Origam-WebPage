@@ -1,0 +1,68 @@
+body {
+    text-align: center;
+    background-color: #8eecf5;
+    font-family: 'Lora', serif;
+ 
+}
+
+h1 {
+    font-size: 40px;
+    font-family: sans-serif;
+    padding: 20px;;
+    font-weight: 300;
+}
+
+#intro{
+  
+    background-color: #43AA8B;
+    border-radius: 20px;;
+    margin:20px;;
+}
+
+#origami1{
+   background-color:lightcoral;
+   border-radius: 20px;;
+   margin:20px;;
+}
+
+#contact_1{
+    background-color: cornflowerblue;
+    border-radius: 20px;;
+}
+#contact_1 h3
+{
+    display: inline;
+}
+#contact_1 a
+{
+    color: white;
+    text-shadow: none;
+}
+
+.line {
+    height: 6px;
+    background-color: rgb(255, 455, 255);
+    width: 10px;
+    margin: 8px auto;
+}
+
+
+h1{
+    font-family: 'Lora', serif;
+    font-weight: bold;
+}
+
+img{
+    border-radius: 20px;
+    margin: 20px;;
+  
+}
+
+iframe{
+    border-radius: 20px;;
+    margin: 20px;;
+}
+
+P{
+    font-weight: bold;
+}
